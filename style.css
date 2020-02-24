@@ -1,7 +1,19 @@
 html{
-    
+
 }
 
 header{
+    height: 150px;
+    width: 100%;
     background-image: url("assets/B&Bhead.jpg");
+    background-size: 1000px, 150px;
+    
+}
+
+#company{
+    color: white;
+    background-color: rgba(0, 0, 0, 65%);
+    height: 135px;
+    padding-top: 15px;
+    padding-left: 15px;
 }
